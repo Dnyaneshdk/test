@@ -1,0 +1,6 @@
+{{#user}}
+Name: Dnyanesh
+Skills: HTML,CSS,JS,Spring boot,Reactjs,Mysql,Java,C#
+Email:  dnyaneshkolhe33@gmail.com
+{{/user}}
+
